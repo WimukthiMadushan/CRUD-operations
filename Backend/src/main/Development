@@ -1,0 +1,6 @@
+01. Setup the database in appication properties file.
+02. Create packages like Controller, Model, Repository, Services
+03. Controller file  create class named StudentController
+    @RestController annotate
+    @CrossOrigin // used for connect the frontend
+    @RestMapping(url) // connect the API
